@@ -139,8 +139,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01_variable\ex01_variable_declare.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="variable.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
