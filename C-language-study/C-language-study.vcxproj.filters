@@ -21,7 +21,7 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01_variable\ex01_variable_declare.c">
+    <ClCompile Include="ex02_variable_initialize.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
