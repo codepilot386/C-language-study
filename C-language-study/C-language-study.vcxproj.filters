@@ -21,7 +21,7 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="02_prinf_scanf\ex01_printf_scanf_one.c">
+    <ClCompile Include="ex02_printf_scanf_two.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
