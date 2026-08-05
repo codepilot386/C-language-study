@@ -3,11 +3,11 @@ int main()
 {
 	int score = 80;
 
-	printf("Ã³À½ Á¡¼ö : %d\n", score);
+	printf("í˜„ì¬ ì ìˆ˜ : %d\n", score);
 
 	score = 100;
 
-	printf("º¯°æµÈ Á¡¼ö : %d\n", score);
+	printf("ë³€ê²½ëœ ì ìˆ˜ : %d\n", score);
 	return 0;
 
 }
